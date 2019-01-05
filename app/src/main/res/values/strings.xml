@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Recordo</string>
     <string name="title_sono">Sonomètre</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_recording">Recording</string>
+    <string name="title_preset">Presets</string>
+    <string name="title_settings">Settings</string>
 </resources>
